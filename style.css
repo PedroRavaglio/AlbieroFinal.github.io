@@ -1,0 +1,76 @@
+/* Texto header */
+b { 
+font-family: din-2014, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size:30px;
+color:#F2F2E9
+}
+
+/* Texto header hover */
+b:hover {
+color:#E7C9C9
+}
+
+
+/* Texto home */
+j {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:25px;
+line-height: 40px
+}
+
+/* Texto dropdown */
+k {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:20px
+}
+
+/* Texto preço dos doces */
+c {
+font-family: din-2014, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size:30px;
+background-color:#E7C9C9;
+color:black
+}
+
+/* Texto titulo dos doces */
+d {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:25px;
+line-height: 40px;
+color:#734E39
+}
+
+/* Texto pagina de entregas */
+h {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:25px;
+line-height: 40px;
+}
+
+/* Subtexto dos doces */
+f {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:15px;
+}
+
+/* Classe que faz o footer sempre ficar no fim da pagina */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
